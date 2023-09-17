@@ -24,6 +24,8 @@ Getting started with Mail2Lexoffice is a breeze:
 
 4.) Run Mail2Lexoffice, and let it handle the heavy lifting!
 
+Crossplattform -> Runs on Windows, Mac and Linux
+
 
 
 Contribute to the Project:
